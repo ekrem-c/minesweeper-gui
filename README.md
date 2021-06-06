@@ -1,0 +1,1 @@
+A trivial minesweeper app. I wanted to learn a bit about python tkinter library, and this project served me good in the process. I wanted to create test cases as inclusive as possible, to ensure I will know about about any logical error in the game.
